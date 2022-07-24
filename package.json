@@ -1,0 +1,25 @@
+{
+  "name": "ts_module_patterns",
+  "version": "1.0.0",
+  "description": "Design patterns for TypeScript and cleaner JS programming.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run build && jest",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackdixonryan/TS_Module_Patterns.git"
+  },
+  "author": "Jack Ryan",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/jackdixonryan/TS_Module_Patterns/issues"
+  },
+  "homepage": "https://github.com/jackdixonryan/TS_Module_Patterns#readme",
+  "devDependencies": {
+    "jest": "^28.1.3",
+    "typescript": "^4.7.4"
+  },
+  "type": "module"
+}
